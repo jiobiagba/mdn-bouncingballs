@@ -1,2 +1,2 @@
 # mdn-bouncingballs
-More leanings on objects and classes
+More learnings on objects and classes
